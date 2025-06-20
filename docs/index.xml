@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on MUSE on Melody</title>
-    <link>http://localhost:1313/onmelody/docs/</link>
+    <link>https://muse-101.github.io/onmelody/docs/</link>
     <description>Recent content in Docs on MUSE on Melody</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/onmelody/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://muse-101.github.io/onmelody/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
